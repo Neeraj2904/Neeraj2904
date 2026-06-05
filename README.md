@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Neeraj2904
 - 👀 I’m interested in Coding, Chess and Painting 
-- 🌱 Python | C | CSS | Java | HTML 
+- 🌱 Python | C | CSS | Java | HTML | SQL
 - 📫 mail me at neeraj.gmg@gmail.com
 
 <!---
